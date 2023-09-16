@@ -72,8 +72,8 @@ header {
 	width: 150px;
 	border-radius: 50px;
 	background-image: linear-gradient(to right,
-			rgb(255, 195, 110),
-			rgb(255, 146, 91));
+			rgb(110, 178, 255),
+			rgb(10, 72, 243));
 	position: absolute;
 	top: 20px;
 	left: 100px;
@@ -134,8 +134,8 @@ header {
 	width: 150px;
 	border-radius: 50px;
 	background-image: linear-gradient(to right,
-			rgb(255, 195, 110),
-			rgb(255, 146, 91));
+			rgb(110, 238, 255),
+			rgb(4, 92, 255));
 	font-size: 22px;
 	border: none;
 	cursor: pointer;
